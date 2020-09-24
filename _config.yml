@@ -181,9 +181,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -227,7 +224,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-
   # _talks
   - scope:
       path: ""
