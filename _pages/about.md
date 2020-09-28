@@ -14,4 +14,4 @@ I am a PhD student in the Department of ECE at IISc Bangalore.
 
 Publications
 
-1. [Paper 1](https://ieeexplore.ieee.org/document/8462509)
+1. [Paper 1](https://ieeexplore.ieee.org/document/8462509){:target="_blank" rel="noopener"}
