@@ -7,19 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me
-======
+
 <p align="center">
   <img src="https://lekshmi-ramesh.github.io/files/lr_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
-I am a PhD student in the Department of ECE at IISc Bangalore.
 
-[//]: # The [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+About me
+======
+I am a PhD student in the Department of ECE at IISc Bangalore. 
+
 
 Publications
 ======
 
-1. [Paper 1](https://ieeexplore.ieee.org/document/8462509){:target="_blank" rel="noopener"}
+1. L. Ramesh and C. R. Murthy. [Support Recovery via Covariance Estimation.](https://ieeexplore.ieee.org/document/8462509){:target="_blank" rel="noopener"} ICASSP 2018.
+
+2. L. Ramesh, C. R. Murthy, and H. Tyagi. [Sample-Measurement Tradeoff in Support Recovery Under a Subgaussian Prior.](https://ieeexplore.ieee.org/document/8849704){:target="_blank" rel="noopener"} ISIT 2019.
 
 Talks
 ======
