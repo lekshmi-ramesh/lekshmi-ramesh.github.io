@@ -31,8 +31,8 @@ I am a PhD student in the Department of ECE at IISc Bangalore, working with Prof
     var date = new Date(),
     year = date.getFullYear(),
     open = '<p style="text-align: center; font-size: 75%;">',
-    copy = 'Copyright &copy; ' + year + 'Lekshmi Ramesh.',
-    credit = ' Site by <a href="https://academicpages.github.io/" target="_blank">AcademicPages</a>.',
+    copy = 'Copyright &copy; ' + year + ' Lekshmi Ramesh.',
+    credit = 'Powered by by Jekyll and AcademicPages.',
     close = '</p>',
     html = open + copy + credit + close;
     document.write(html);
