@@ -27,12 +27,17 @@ I am a PhD student in the Department of ECE at IISc Bangalore, working with Prof
 
 ---
 
+
+
+
+
+
 <script type="text/javascript">
     var date = new Date(),
     year = date.getFullYear(),
     open = '<p style="text-align: center; font-size: 75%;">',
     copy = 'Copyright &copy; ' + year + ' Lekshmi Ramesh.',
-    credit = 'Powered by by Jekyll and AcademicPages.',
+    credit = ' Powered by by Jekyll and AcademicPages.',
     close = '</p>',
     html = open + copy + credit + close;
     document.write(html);
