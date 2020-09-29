@@ -23,7 +23,7 @@ I am a PhD student in the Department of ECE at IISc Bangalore, working with Prof
 
 - L. Ramesh, C. R. Murthy, and H.Tyagi. [Sample-Measurement Tradeoff in Support Recovery Under a Subgaussian Prior.](https://ieeexplore.ieee.org/document/8849704){:target="_blank" rel="noopener"} International Symposium on Information Theory ISIT, Paris 2019.
 
-- L. Ramesh and C. R. Murthy. [Support Recovery via Covariance Estimation, International Conference on Acoustics, Speech, and Signal Processing ICASSP, Calgary 2018.](https://ieeexplore.ieee.org/document/8462509){:target="_blank" rel="noopener"}
+- L. Ramesh and C. R. Murthy. [Support Recovery via Covariance Estimation.](https://ieeexplore.ieee.org/document/8462509){:target="_blank" rel="noopener"} International Conference on Acoustics, Speech, and Signal Processing ICASSP, Calgary 2018.
 
 ---
 
