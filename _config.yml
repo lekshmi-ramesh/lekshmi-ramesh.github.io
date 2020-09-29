@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Lekshmi Ramesh"
-  avatar           : "lr_img.png"
-  bio              : "SPW 204, ECE Department"
-  location         : "IISc, Bangalore, 560012"
+ # avatar           : "lr_img.png"
+  bio              : "SPW 204, ECE Department, IISc Bangalore 560012"
+ # location         : "IISc, Bangalore, 560012"
   employer         :
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
  # googlescholar    : "http://yourfullgooglescholarurl.com"
