@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-#locale                   : "en-US"
-title                    : ""
+locale                   : "en-US"
+title                    : "Lekshmi Ramesh"
 title_separator          : "-"
 name                     : &name "Lekshmi Ramesh"
-description              : &description "PhD student"
+description              : &description "PhD student, ECE Department, IISc"
 url                      : https://lekshmi-ramesh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lekshmi-ramesh/lekshmi-ramesh.github.io"
@@ -33,7 +33,7 @@ comments:
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
- # commitMessage          : "New comment."
+  commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
@@ -46,8 +46,8 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-#atom_feed:
-#  path                   : # blank (default) uses feed.xml
+atom_feed:
+  path                   : # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification :
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Lekshmi Ramesh"
- avatar           : "lr_img.png"
-  bio              : "Lekshmi Ramesh"
- # location         : ""
- # employer         :"SPW 204, Dept. of ECE, IISc, Bangalore"
+  avatar           : "lr_img.png"
+  bio              : "SPW 204, ECE Department"
+  location         : "IISc, Bangalore, 560012"
+  employer         :
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
  # googlescholar    : "http://yourfullgooglescholarurl.com"
- # email            :lekshmi@iisc.ac.in
+  email            :   "lekshmi@iisc.ac.in"
  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
  # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  #orcid            : "http://orcid.org/yourorcidurl"
+ # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
  # stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -224,6 +224,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
@@ -243,22 +252,22 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-#timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:  # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
 plugins:
   - jekyll-paginate
-#  - jekyll-sitemap
+  - jekyll-sitemap
   - jekyll-gist
- # - jekyll-feed
+  - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-#  - jekyll-sitemap
+  - jekyll-sitemap
   - jekyll-gist
- # - jekyll-feed
+  - jekyll-feed
   - jemoji
 
 
