@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://github.com/lekshmi-ramesh/LR/blob/master/lr_img_2.jpg" alt="Photo" style="width: 450px;"/> 
+ <img src="https://lekshmi-ramesh.github.io/files/lr_img.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
 
 [//]: # <img src="https://lekshmi-ramesh.github.io/files/lr_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
