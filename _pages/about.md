@@ -21,6 +21,8 @@ Publications
 ======
 - L. Ramesh, C. R. Murthy, and H. Tyagi. [Sample-Measurement Tradeoff in Support Recovery Under a Subgaussian Prior.](https://ieeexplore.ieee.org/document/8849704) {:target="_blank" rel="noopener"}
 
+- L. Ramesh, C. R. Murthy, and H.Tyagi. [Sample-Measurement Tradeoff in Support Recovery Under a Subgaussian Prior.](https://ieeexplore.ieee.org/document/8849704){:target="_blank" rel="noopener"}
+
 - L. Ramesh and C. R. Murthy. [Support Recovery via Covariance Estimation.](https://ieeexplore.ieee.org/document/8462509){:target="_blank" rel="noopener"}
 
 Talks
