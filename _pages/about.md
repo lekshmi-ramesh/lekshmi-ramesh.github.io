@@ -27,6 +27,13 @@ I am a PhD student in the Department of ECE at IISc Bangalore, working with Prof
 - L. Ramesh and C. R. Murthy. [Sparse Support Recovery via Covariance Estimation.](https://ieeexplore.ieee.org/document/8462509){:target="_blank" rel="noopener"} International Conference on Acoustics, Speech, and Signal Processing ICASSP, Calgary 2018.
 
 ---
+<span style="font-size:2em;">Contact</span>
+
+SPW 204, Department of ECE<br/>
+Indian Institute of Science<br/>
+Bangalore 560012<br/>
+
+---
 
 <br/><br/><br/><br/><br/><br/>
 
