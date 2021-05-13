@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : <font size="6"> "Lekshmi Ramesh"</font>
+title                    : <font size="6"> Lekshmi Ramesh</font>
 title_separator          : "-"
 name                     : &name "Lekshmi Ramesh"
 description              : &description "PhD student, ECE Department, IISc"
@@ -79,7 +79,7 @@ analytics:
 
 
 # Site Author
-#author: 
+author: 
  # name             : "Lekshmi Ramesh"
  # avatar           : "lr_img.png"
 #  bio              : "Contact: SPW 204, Department of ECE, Indian Institute of Science Bangalore 560012"
