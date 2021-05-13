@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : <font size="6"> Lekshmi Ramesh</font>
+title                    : "Lekshmi Ramesh"
 title_separator          : "-"
 name                     : &name "Lekshmi Ramesh"
 description              : &description "PhD student, ECE Department, IISc"
