@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author: 
  # name             : #"Lekshmi Ramesh"
-  avatar           : "https://lekshmi-ramesh.github.io/files/lr_img.jpg?raw=true" #"lr_img.png"
+  avatar           : <img src="https://lekshmi-ramesh.github.io/files/lr_img.jpg?raw=true" alt="Photo" style="width: 100px;"/> #"https://lekshmi-ramesh.github.io/files/lr_img.jpg?raw=true" #"lr_img.png"
 #  bio              : "Contact: SPW 204, Department of ECE, Indian Institute of Science Bangalore 560012"
  # location         : "IISc, Bangalore, 560012"
  # employer         :
