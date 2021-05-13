@@ -82,12 +82,12 @@ analytics:
 author: 
  # name             : "Lekshmi Ramesh"
  # avatar           : "lr_img.png"
-  bio              : "Contact: SPW 204, Department of ECE, Indian Institute of Science Bangalore 560012"
+#  bio              : "Contact: SPW 204, Department of ECE, Indian Institute of Science Bangalore 560012"
  # location         : "IISc, Bangalore, 560012"
   employer         :
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
  # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :   "lekshmi@iisc.ac.in"
+ # email            :   "lekshmi@iisc.ac.in"
  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
