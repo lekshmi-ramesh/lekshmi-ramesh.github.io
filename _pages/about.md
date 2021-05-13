@@ -26,7 +26,7 @@ I am a PhD student in the Department of ECE at IISc Bangalore, working with [Pro
 
 - Lekshmi Ramesh, Chandra R. Murthy, and Himanshu Tyagi. Multiple Support Recovery From Very Few Measurements Per Sample. International Symposium on Information Theory ISIT, Melbourne 2021.
 
-- Lekshmi Ramesh, Chandra R. Murthy, and Himanshu Tyagi. [Sample-Measurement Tradeoff in Support Recovery Under a Subgaussian Prior.](https://ieeexplore.ieee.org/document/8849704){:target="_blank" rel="noopener"} International Symposium on Information Theory ISIT, Paris 2019.
+- Lekshmi Ramesh, Chandra R. Murthy, and Himanshu Tyagi. [Sample-Measurement Tradeoff in Support Recovery Under a Subgaussian Prior.](https://ieeexplore.ieee.org/document/8849704){:target="_blank" rel="noopener"} International Symposium on Information Theory ISIT, Paris 2019. [Longer version](https://arxiv.org/abs/1912.11247){:target="_blank" rel="noopener"} on arXiv.
 
 - Lekshmi Ramesh and Chandra R. Murthy. [Sparse Support Recovery via Covariance Estimation.](https://ieeexplore.ieee.org/document/8462509){:target="_blank" rel="noopener"} International Conference on Acoustics, Speech, and Signal Processing ICASSP, Calgary 2018. [Student Paper Award]
 
@@ -47,7 +47,6 @@ Email: lekshmi@iisc.ac.in<br/>
     year = date.getFullYear(),
     open = '<p style="text-align: center; font-size: 75%;">',
     copy = 'Copyright &copy; ' + year + ' Lekshmi Ramesh.',
-    credit = ' Powered by Jekyll and AcademicPages.',
     close = '</p>',
     html = open + copy + credit + close;
     document.write(html);
