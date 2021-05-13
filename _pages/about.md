@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
- <img src="https://lekshmi-ramesh.github.io/files/lr_img.jpg?raw=true" alt="Photo" style="width: 300px;"/> 
-</p>
+#<p align="center">
+# <img src="https://lekshmi-ramesh.github.io/files/lr_img.jpg?raw=true" alt="Photo" style="width: 300px;"/> 
+#</p>
 
 [//]: # <img src="https://lekshmi-ramesh.github.io/files/lr_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 [//]: # <span style="color:blue; font-family:Georgia; font-size:2em;">About me.</span>
