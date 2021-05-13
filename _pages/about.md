@@ -17,7 +17,7 @@ redirect_from:
 
 <span style="font-size:2em;">About me</span>
 
-I am a PhD student in the Department of ECE at IISc Bangalore, working with [Prof. Chandra R. Murthy](https://ece.iisc.ac.in/~cmurthy/doku.php){:target="_blank" rel="noopener"} and [Prof. Himanshu Tyagi](https://ece.iisc.ac.in/~htyagi/){:target="_blank" rel="noopener"}. 
+I am a PhD student in the Department of ECE at IISc Bangalore, working with [Prof. Chandra R. Murthy](https://ece.iisc.ac.in/~cmurthy/doku.php) and [Prof. Himanshu Tyagi](https://ece.iisc.ac.in/~htyagi/){:target="_blank" rel="noopener"}. 
 
 ---
 <span style="font-size:2em;">Publications</span>
