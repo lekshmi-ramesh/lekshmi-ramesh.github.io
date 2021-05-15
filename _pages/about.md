@@ -33,9 +33,10 @@ I am a PhD student in the Department of ECE at IISc Bangalore, working with [Pro
 ---
 <span style="font-size:2em;">Talks</span>
 
--[Support Recovery From Multiple Samples Under Measurement Constraints](https://epapers.org/ciss2021/ESR/session_sched_view.php?PHPSESSID=r0n5ogkrll3eblnn08j3fufj64&sched_id=1){:target="_blank" rel="noopener"}, Session on Large Scale Statistical Inference at CISS 2021.
+-[Support Recovery from Multiple Samples Under Measurement Constraints](https://epapers.org/ciss2021/ESR/session_sched_view.php?PHPSESSID=r0n5ogkrll3eblnn08j3fufj64&sched_id=1){:target="_blank" rel="noopener"}, Session on Large Scale Statistical Inference at CISS 2021.
 
 -[Support Recovery from Linear Sketches](https://www.youtube.com/watch?v=jWkCMoET-LA){:target="_blank" rel="noopener"}, [CNI Seminar at IISc](https://sites.google.com/view/cni-nss/){:target="_blank" rel="noopener"}
+
 ---
 <span style="font-size:2em;">Contact</span>
 
@@ -46,7 +47,7 @@ Email: lekshmi@iisc.ac.in<br/>
 
 ---
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 <script type="text/javascript">
     var date = new Date(),
@@ -54,6 +55,6 @@ Email: lekshmi@iisc.ac.in<br/>
     open = '<p style="text-align: center; font-size: 75%;">',
     copy = 'Copyright &copy; ' + year + ' Lekshmi Ramesh.',
     close = '</p>',
-    html = open + copy + credit + close;
+    html = open + copy + close;
     document.write(html);
  </script>
