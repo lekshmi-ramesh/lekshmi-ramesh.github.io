@@ -33,11 +33,11 @@ I am a PhD student in the Department of ECE at IISc Bangalore, working with [Pro
 ---
 <span style="font-size:2em;">Talks</span>
 
--[Support Recovery from Multiple Samples Under Measurement Constraints](https://epapers.org/ciss2021/ESR/session_sched_view.php?PHPSESSID=r0n5ogkrll3eblnn08j3fufj64&sched_id=1){:target="_blank" rel="noopener"}, Session on Large Scale Statistical Inference at CISS 2021.
+- [Support Recovery from Multiple Samples Under Measurement Constraints](https://epapers.org/ciss2021/ESR/session_sched_view.php?PHPSESSID=r0n5ogkrll3eblnn08j3fufj64&sched_id=1){:target="_blank" rel="noopener"}, Session on Large Scale Statistical Inference at CISS 2021.
 
--[Support Recovery from Linear Sketches](https://www.youtube.com/watch?v=jWkCMoET-LA){:target="_blank" rel="noopener"}, CNI Seminar at IISc, August 2020.
+- [Support Recovery from Linear Sketches](https://www.youtube.com/watch?v=jWkCMoET-LA){:target="_blank" rel="noopener"}, CNI Seminar at IISc, August 2020.
 
--[Joint Structure Recovery in High Dimensional Data Using Linear Sketches](https://eecs.iisc.ac.in/EECS2020/){:target="_blank" rel="noopener"}, EECS Research Students Symposium at IISc, July 2020.
+- [Joint Structure Recovery in High Dimensional Data Using Linear Sketches](https://eecs.iisc.ac.in/EECS2020/){:target="_blank" rel="noopener"}, EECS Research Students Symposium at IISc, July 2020.
 
 ---
 <span style="font-size:2em;">Contact</span>
