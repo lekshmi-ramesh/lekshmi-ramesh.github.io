@@ -24,7 +24,7 @@ I am a PhD student in the Department of ECE at IISc Bangalore, working with [Pro
 
 - Lekshmi Ramesh, Chandra R. Murthy, and Himanshu Tyagi. Phase Transitions for Support Recovery from Gaussian Linear Measurements. International Symposium on Information Theory ISIT, Melbourne 2021. [Full version](https://arxiv.org/abs/2102.00235){:target="_blank" rel="noopener"} on arXiv.
 
-- Lekshmi Ramesh, Chandra R. Murthy, and Himanshu Tyagi. Multiple Support Recovery From Very Few Measurements Per Sample. International Symposium on Information Theory ISIT, Melbourne 2021.
+- Lekshmi Ramesh, Chandra R. Murthy, and Himanshu Tyagi. Multiple Support Recovery From Very Few Measurements Per Sample. International Symposium on Information Theory ISIT, Melbourne 2021. [Full version](https://arxiv.org/abs/2105.09855){:target="_blank" rel="noopener"} on arXiv.
 
 - Lekshmi Ramesh, Chandra R. Murthy, and Himanshu Tyagi. [Sample-Measurement Tradeoff in Support Recovery Under a Subgaussian Prior.](https://ieeexplore.ieee.org/document/8849704){:target="_blank" rel="noopener"} International Symposium on Information Theory ISIT, Paris 2019. [Longer version](https://arxiv.org/abs/1912.11247){:target="_blank" rel="noopener"} on arXiv.
 
