@@ -25,7 +25,7 @@ I am a PhD student in the Department of ECE at IISc Bangalore, working with [Pro
 - Lekshmi Ramesh, Chandra R. Murthy, and Himanshu Tyagi. Phase Transitions for Support Recovery from Gaussian Linear Measurements. International Symposium on Information Theory ISIT, Melbourne 2021. <br /> [Full version](https://arxiv.org/abs/2102.00235){:target="_blank" rel="noopener"} on arXiv.
 
 
-- Lekshmi Ramesh, Chandra R. Murthy, and Himanshu Tyagi. Multiple Support Recovery from Very Few Measurements Per Sample. International Symposium on Information Theory ISIT, Melbourne 2021. [Jack Keil Wolf student paper award] <br/> [Full version](https://arxiv.org/abs/2105.09855){:target="_blank" rel="noopener"} on arXiv.
+- Lekshmi Ramesh, Chandra R. Murthy, and Himanshu Tyagi. Multiple Support Recovery using Very Few Measurements Per Sample. International Symposium on Information Theory ISIT, Melbourne 2021. [Jack Keil Wolf student paper award] <br/> [Full version](https://arxiv.org/abs/2105.09855){:target="_blank" rel="noopener"} on arXiv.
 
 - Lekshmi Ramesh, Chandra R. Murthy, and Himanshu Tyagi. Sample-Measurement Tradeoff in Support Recovery Under a Subgaussian Prior. Accepted to Transactions on Information Theory, 2021. <br/> [Full version](https://arxiv.org/abs/1912.11247){:target="_blank" rel="noopener"} on arXiv.
 
@@ -35,7 +35,7 @@ I am a PhD student in the Department of ECE at IISc Bangalore, working with [Pro
 
 ---
 <span style="font-size:2em;">Talks</span>
-- [Multiple Support Recovery from Very Few Measurements Per Sample](https://drive.google.com/file/d/1uo9aIq-xw05xfinJaKUsJW62A_VLglSJ/view?usp=sharing){:target="_blank" rel="noopener"}, ISIT 2021.
+- [Multiple Support Recovery using Very Few Measurements Per Sample](https://drive.google.com/file/d/1uo9aIq-xw05xfinJaKUsJW62A_VLglSJ/view?usp=sharing){:target="_blank" rel="noopener"}, ISIT 2021.
 
 - [Phase Transitions for Support Recovery from Gaussian Linear Measurements](https://drive.google.com/file/d/1_tM7hrMBbpsu6WWn6Ycp88Pn2nyUCYxw/view?usp=sharing){:target="_blank" rel="noopener"}, ISIT 2021.
 
