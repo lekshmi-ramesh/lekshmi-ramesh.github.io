@@ -25,7 +25,7 @@ I am a PhD student in the Department of ECE at IISc Bangalore, working with [Pro
 - Lekshmi Ramesh, Chandra R. Murthy, and Himanshu Tyagi. Phase Transitions for Support Recovery from Gaussian Linear Measurements. International Symposium on Information Theory ISIT, Melbourne 2021. <br /> [Full version](https://arxiv.org/abs/2102.00235){:target="_blank" rel="noopener"} on arXiv.
 
 
-- Lekshmi Ramesh, Chandra R. Murthy, and Himanshu Tyagi. Multiple Support Recovery From Very Few Measurements Per Sample. International Symposium on Information Theory ISIT, Melbourne 2021. [Jack Keil Wolf student paper award] <br/> [Full version](https://arxiv.org/abs/2105.09855){:target="_blank" rel="noopener"} on arXiv.
+- Lekshmi Ramesh, Chandra R. Murthy, and Himanshu Tyagi. Multiple Support Recovery from Very Few Measurements Per Sample. International Symposium on Information Theory ISIT, Melbourne 2021. [Jack Keil Wolf student paper award] <br/> [Full version](https://arxiv.org/abs/2105.09855){:target="_blank" rel="noopener"} on arXiv.
 
 - Lekshmi Ramesh, Chandra R. Murthy, and Himanshu Tyagi. Sample-Measurement Tradeoff in Support Recovery Under a Subgaussian Prior. Accepted to Transactions on Information Theory, 2021. <br/> [Full version](https://arxiv.org/abs/1912.11247){:target="_blank" rel="noopener"} on arXiv.
 
@@ -35,6 +35,9 @@ I am a PhD student in the Department of ECE at IISc Bangalore, working with [Pro
 
 ---
 <span style="font-size:2em;">Talks</span>
+- [Multiple Support Recovery from Very Few Measurements Per Sample](https://www.dropbox.com/s/6wr61fdgxoz4kcm/ISIT21b-video.mp4?dl=0){:target="_blank" rel="noopener"}, ISIT 2021.
+
+- [Phase Transitions for Support Recovery from Gaussian Linear Measurements](https://www.dropbox.com/s/qghs1zyed2f0kal/ISIT21a-video.mp4?dl=0){:target="_blank" rel="noopener"}, ISIT 2021.
 
 - [Support Recovery from Multiple Samples Under Measurement Constraints](https://epapers.org/ciss2021/ESR/session_sched_view.php?PHPSESSID=r0n5ogkrll3eblnn08j3fufj64&sched_id=1){:target="_blank" rel="noopener"}, Session on Large Scale Statistical Inference at CISS 2021.
 
