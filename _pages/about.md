@@ -35,7 +35,7 @@ I am a PhD student in the Department of ECE at IISc Bangalore, working with [Pro
 
 ---
 <span style="font-size:2em;">Talks</span>
-- [Multiple Support Recovery from Very Few Measurements Per Sample](https://www.dropbox.com/s/6wr61fdgxoz4kcm/ISIT21b-video.mp4?dl=0){:target="_blank" rel="noopener"}, ISIT 2021.
+- [Multiple Support Recovery from Very Few Measurements Per Sample](https://drive.google.com/file/d/1uo9aIq-xw05xfinJaKUsJW62A_VLglSJ/view?usp=sharing){:target="_blank" rel="noopener"}, ISIT 2021.
 
 - [Phase Transitions for Support Recovery from Gaussian Linear Measurements](https://drive.google.com/file/d/1_tM7hrMBbpsu6WWn6Ycp88Pn2nyUCYxw/view?usp=sharing){:target="_blank" rel="noopener"}, ISIT 2021.
 
