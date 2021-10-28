@@ -35,6 +35,8 @@ I am a PhD student in the Department of ECE at IISc Bangalore, working with [Pro
 
 ---
 <span style="font-size:2em;">Talks</span>
+- [Concentration Inequalities and Information Theory](https://www.youtube.com/watch?v=wOfTC0yzTxo){:target="_blank" rel="noopener"}, for a course on [Information Theory](https://cni.iisc.ac.in/courses/){:target="_blank" rel="noopener"} offered by Prof. Himanshu Tyagi at CNI, IISc.
+
 - [Multiple Support Recovery using Very Few Measurements Per Sample](https://drive.google.com/file/d/1uo9aIq-xw05xfinJaKUsJW62A_VLglSJ/view?usp=sharing){:target="_blank" rel="noopener"}, ISIT 2021.
 
 - [Phase Transitions for Support Recovery from Gaussian Linear Measurements](https://drive.google.com/file/d/1_tM7hrMBbpsu6WWn6Ycp88Pn2nyUCYxw/view?usp=sharing){:target="_blank" rel="noopener"}, ISIT 2021.
