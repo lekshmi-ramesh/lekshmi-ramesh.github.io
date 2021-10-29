@@ -27,7 +27,7 @@ I am a PhD student in the Department of ECE at IISc Bangalore, working with [Pro
 
 - Lekshmi Ramesh, Chandra R. Murthy, and Himanshu Tyagi. [Multiple Support Recovery using Very Few Measurements Per Sample.](https://ieeexplore.ieee.org/document/9518281){:target="_blank" rel="noopener"} International Symposium on Information Theory ISIT, Melbourne 2021. [Jack Keil Wolf student paper award] <br/> [Full version](https://arxiv.org/abs/2105.09855){:target="_blank" rel="noopener"} on arXiv.
 
-- Lekshmi Ramesh, Chandra R. Murthy, and Himanshu Tyagi. [Sample-Measurement Tradeoff in Support Recovery Under a Subgaussian Prior.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9535461){:target="_blank" rel="noopener"} Transactions on Information Theory, Sept. 2021. <br/> [Full version](https://arxiv.org/abs/1912.11247){:target="_blank" rel="noopener"} on arXiv.
+- Lekshmi Ramesh, Chandra R. Murthy, and Himanshu Tyagi. [Sample-Measurement Tradeoff in Support Recovery Under a Subgaussian Prior.](https://ieeexplore.ieee.org/document/9535461){:target="_blank" rel="noopener"} Transactions on Information Theory, Sept. 2021. <br/> [Full version](https://arxiv.org/abs/1912.11247){:target="_blank" rel="noopener"} on arXiv.
 
 - Lekshmi Ramesh, Chandra R. Murthy, and Himanshu Tyagi. [Sample-Measurement Tradeoff in Support Recovery Under a Subgaussian Prior.](https://ieeexplore.ieee.org/document/8849704){:target="_blank" rel="noopener"} International Symposium on Information Theory ISIT, Paris 2019. 
 
