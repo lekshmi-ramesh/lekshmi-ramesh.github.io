@@ -21,8 +21,9 @@ redirect_from:
 
 <span style="font-size:2em;">About me</span>
 
-I am currently working as a Senior Researcher at the [Robert Bosch Center for Cyber-Physical Systems](https://cps.iisc.ac.in/){:target="_blank" rel="noopener"} at the Indian Institute of Science (IISc), Bangalore.
-Before that, I was a Project Scientist at the [India Urban Data Exchange](https://iudx.org.in/){:target="_blank" rel="noopener"} program unit at IISc.
+I am a Postdoc at Columbia University in the Statistics Department, where I work with [Prof. Marco Avella](https://sites.google.com/site/marcoavellamedina/home){:target="_blank" rel="noopener"} and [Prof. Cynthia Rush] (http://www.columbia.edu/~cgr2130/){:target="_blank" rel="noopener"}
+Before that, I worked as a Senior Researcher at the [Robert Bosch Center for Cyber-Physical Systems](https://cps.iisc.ac.in/){:target="_blank" rel="noopener"} at the Indian Institute of Science (IISc), Bangalore.
+I also worked as a Project Scientist at the [India Urban Data Exchange](https://iudx.org.in/){:target="_blank" rel="noopener"} program unit at IISc.
 I completed my PhD from the Department of ECE at IISc in 2021, where I worked with [Prof. Chandra R. Murthy](https://ece.iisc.ac.in/~cmurthy/doku.php){:target="_blank" rel="noopener"} and [Prof. Himanshu Tyagi](https://ece.iisc.ac.in/~htyagi/){:target="_blank" rel="noopener"}. I work on problems in the areas of high-dimensional statistics, information theory, and privacy. 
 
 ---
