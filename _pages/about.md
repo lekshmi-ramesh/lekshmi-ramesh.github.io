@@ -13,7 +13,7 @@ redirect_from:
 [//]: #</p>
 
 <p align="center">
-<img src="https://lekshmi-ramesh.github.io/files/PIC2.jpeg?raw=true" alt="Photo" style="width: 200px;"/> 
+<img src="https://lekshmi-ramesh.github.io/files/PIC2.jpeg?raw=true" alt="Photo" style="width: 350px;"/> 
 </p>
 
 [//]: # <img src="https://lekshmi-ramesh.github.io/files/lr_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
