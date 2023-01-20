@@ -60,10 +60,11 @@ I completed my PhD from the Department of ECE at IISc in 2021, where I worked wi
 ---
 <span style="font-size:2em;">Contact</span>
 
-SPW 204, Department of ECE<br/>
-Indian Institute of Science<br/>
-Bangalore 560012<br/>
-Email: lekshmi@iisc.ac.in<br/>
+Department of Statistics<br/>
+SSW Building<br/>
+1255 Amsterdam Avenue<br/>
+New York, NY, 1027<br/>
+Email: lr3160@columbia.edu<br/>
 
 ---
 
