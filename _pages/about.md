@@ -63,7 +63,7 @@ I completed my PhD from the Department of ECE at IISc in 2021, where I worked wi
 Department of Statistics<br/>
 SSW Building<br/>
 1255 Amsterdam Avenue<br/>
-New York, NY, 1027<br/>
+New York, NY, 10027<br/>
 Email: lr3160@columbia.edu<br/>
 
 ---
