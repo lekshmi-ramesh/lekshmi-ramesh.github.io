@@ -27,6 +27,9 @@ I also worked as a Project Scientist at the [India Urban Data Exchange](https://
 I completed my PhD from the [Department of ECE](https://ece.iisc.ac.in/){:target="_blank" rel="noopener"} at IISc in 2021, where I was advised by [Prof. Chandra R. Murthy](https://ece.iisc.ac.in/~cmurthy/doku.php){:target="_blank" rel="noopener"} and [Prof. Himanshu Tyagi](https://ece.iisc.ac.in/~htyagi/){:target="_blank" rel="noopener"}. I work on problems in the areas of high-dimensional statistics, information theory, and privacy. 
 
 ---
+<span style="font-size:2em;">Preprints</span>
+- Anand J. George, Lekshmi Ramesh, Aditya V. Singh, and Himanshu Tyagi. [Continual Mean Estimation Under User-Level Privacy](https://arxiv.org/abs/2105.09855){:target="_blank" rel="noopener"} on arXiv.
+---
 <span style="font-size:2em;">Publications</span>
 - Lekshmi Ramesh, Chandra R. Murthy, and Himanshu Tyagi. [Multiple Support Recovery using Very Few Measurements Per Sample.](https://ieeexplore.ieee.org/document/9762551){:target="_blank" rel="noopener"} IEEE Transactions on Signal Processing, Apr. 2022.
 <br/> [Full version](https://arxiv.org/abs/2105.09855){:target="_blank" rel="noopener"} on arXiv.
