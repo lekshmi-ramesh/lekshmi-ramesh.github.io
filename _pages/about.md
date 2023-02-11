@@ -28,7 +28,7 @@ I completed my PhD from the [Department of ECE](https://ece.iisc.ac.in/){:target
 
 ---
 <span style="font-size:2em;">Preprints</span>
-- Anand J. George, Lekshmi Ramesh, Aditya V. Singh, and Himanshu Tyagi. [Continual Mean Estimation Under User-Level Privacy](https://arxiv.org/abs/2212.09980){:target="_blank" rel="noopener"} (arXiv version)
+- Anand J. George, Lekshmi Ramesh, Aditya V. Singh, and Himanshu Tyagi. [Continual Mean Estimation Under User-Level Privacy](https://arxiv.org/abs/2212.09980){:target="_blank" rel="noopener"} (arXiv version) Dec. 2022
 
 ---
 <span style="font-size:2em;">Publications</span>
