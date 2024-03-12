@@ -32,7 +32,7 @@ I completed my PhD from the [Department of ECE](https://ece.iisc.ac.in/){:target
 
 ---
 <span style="font-size:2em;">Publications</span>
-- Anand J. George, Lekshmi Ramesh, Aditya V. Singh, and Himanshu Tyagi. [Continual Mean Estimation Under User-Level Privacy]([https://arxiv.org/abs/2212.09980](https://ieeexplore.ieee.org/document/10443583)){:target="_blank" rel="noopener"} IEEE Journal on Selected Areas in Information Theory, Feb. 2024.
+- Anand J. George, Lekshmi Ramesh, Aditya V. Singh, and Himanshu Tyagi. [Continual Mean Estimation Under User-Level Privacy.](https://ieeexplore.ieee.org/document/10443583){:target="_blank" rel="noopener"} IEEE Journal on Selected Areas in Information Theory, Feb. 2024.
   
 - Lekshmi Ramesh, Chandra R. Murthy, and Himanshu Tyagi. [Multiple Support Recovery using Very Few Measurements Per Sample.](https://ieeexplore.ieee.org/document/9762551){:target="_blank" rel="noopener"} IEEE Transactions on Signal Processing, Apr. 2022.
 <br/> [Full version](https://arxiv.org/abs/2105.09855){:target="_blank" rel="noopener"} on arXiv.
