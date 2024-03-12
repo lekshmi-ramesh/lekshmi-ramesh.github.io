@@ -51,6 +51,11 @@ I completed my PhD from the [Department of ECE](https://ece.iisc.ac.in/){:target
 
 ---
 <span style="font-size:2em;">Talks</span>
+
+- Statistical Inference Under User-Level Local Privacy Constraints. Poster at the North American School of Information Theory, May 2023, University of Pennsylvania and at the Statistical Machine Learning Symposium, Apr. 2023, Columbia University.
+
+- Multiple Support Recovery using Very Few Measurements Per Sample. Invited talk at the Berkeley-Columbia Meeting in Engineering and Statistics, Mar. 2023, Columbia University.
+  
 - [Concentration Inequalities and Information Theory](https://www.youtube.com/watch?v=wOfTC0yzTxo){:target="_blank" rel="noopener"}, for a course on [Information Theory](https://cni.iisc.ac.in/courses/){:target="_blank" rel="noopener"} offered by Prof. Himanshu Tyagi at CNI, IISc.
 
 - [Multiple Support Recovery using Very Few Measurements Per Sample](https://drive.google.com/file/d/1uo9aIq-xw05xfinJaKUsJW62A_VLglSJ/view?usp=sharing){:target="_blank" rel="noopener"}, ISIT 2021.
