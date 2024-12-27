@@ -20,8 +20,8 @@ redirect_from:
 [//]: # <span style="color:blue; font-family:Georgia; font-size:2em;">About me.</span>
 
 <span style="font-size:2em;">About me</span>
-
-I am a Postdoc at Columbia University in the [Department of Statistics](https://stat.columbia.edu/){:target="_blank" rel="noopener"}, where I work with [Prof. Marco Avella-Medina](https://sites.google.com/site/marcoavellamedina/home){:target="_blank" rel="noopener"} and [Prof. Cynthia Rush](http://www.columbia.edu/~cgr2130/){:target="_blank" rel="noopener"}.
+I am a Senior AI Scientist at GE Healthcare, Bangalore.
+Earlier, I was a Postdoc at Columbia University in the [Department of Statistics](https://stat.columbia.edu/){:target="_blank" rel="noopener"}, where I worked with [Prof. Marco Avella-Medina](https://sites.google.com/site/marcoavellamedina/home){:target="_blank" rel="noopener"} and [Prof. Cynthia Rush](http://www.columbia.edu/~cgr2130/){:target="_blank" rel="noopener"}.
 Before joining Columbia in January 2023, I worked as a Senior Researcher at the [Robert Bosch Center for Cyber-Physical Systems](https://cps.iisc.ac.in/){:target="_blank" rel="noopener"} at the Indian Institute of Science (IISc), Bangalore.
 I also worked as a Project Scientist at the [India Urban Data Exchange](https://iudx.org.in/){:target="_blank" rel="noopener"} program unit at IISc.
 I completed my PhD from the [Department of ECE](https://ece.iisc.ac.in/){:target="_blank" rel="noopener"} at IISc in 2021, where I was advised by [Prof. Chandra R. Murthy](https://ece.iisc.ac.in/~cmurthy/doku.php){:target="_blank" rel="noopener"} and [Prof. Himanshu Tyagi](https://ece.iisc.ac.in/~htyagi/){:target="_blank" rel="noopener"}. I work on problems in the areas of high-dimensional statistics, information theory, and privacy. 
@@ -71,11 +71,17 @@ I completed my PhD from the [Department of ECE](https://ece.iisc.ac.in/){:target
 ---
 <span style="font-size:2em;">Contact</span>
 
-Department of Statistics<br/>
-SSW Building<br/>
-1255 Amsterdam Avenue<br/>
-New York, NY, 10027<br/>
-Email: lr3160@columbia.edu<br/>
+[Department of Statistics<br/>]: #
+
+[SSW Building<br/>]: #
+
+[1255 Amsterdam Avenue<br/>]: #
+
+[New York, NY, 10027<br/>]: #
+
+[Email: lr3160@columbia.edu<br/>]: #
+
+Email: lekshmi.ramesh@gehealthcare.com<br/>
 
 ---
 
