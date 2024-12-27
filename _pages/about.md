@@ -20,6 +20,7 @@ redirect_from:
 [//]: # <span style="color:blue; font-family:Georgia; font-size:2em;">About me.</span>
 
 <span style="font-size:2em;">About me</span>
+
 I am a Senior AI Scientist at GE Healthcare, Bangalore.
 Earlier, I was a Postdoc at Columbia University in the [Department of Statistics](https://stat.columbia.edu/){:target="_blank" rel="noopener"}, where I worked with [Prof. Marco Avella-Medina](https://sites.google.com/site/marcoavellamedina/home){:target="_blank" rel="noopener"} and [Prof. Cynthia Rush](http://www.columbia.edu/~cgr2130/){:target="_blank" rel="noopener"}.
 Before joining Columbia in January 2023, I worked as a Senior Researcher at the [Robert Bosch Center for Cyber-Physical Systems](https://cps.iisc.ac.in/){:target="_blank" rel="noopener"} at the Indian Institute of Science (IISc), Bangalore.
